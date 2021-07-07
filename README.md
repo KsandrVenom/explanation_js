@@ -9,4 +9,5 @@ https://github.com/KsandrVenom/js_keyboard/blob/main/README.md - виртуал�
 
 https://github.com/KsandrVenom/js_weatherAPI - получение прогноза погоды по API
 
-в течении недели-двух здесь будет ещё проект по бэку
+примерно ~ май 2021
+https://ksandrvenom.github.io/project_table/ - проект таблицы на(по) ООП
