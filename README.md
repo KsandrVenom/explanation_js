@@ -1,5 +1,11 @@
 # explanation_js
  портфолио по js
+
+пример кода от ~ июля 2021 года
+
+https://ksandrvenom.github.io/diagrama/ - библиотека для работы с графиками
+
+https://github.com/KsandrVenom/react_basket - корзина на реакте
  
 примеры кода от март-апрель 2021 года
 
