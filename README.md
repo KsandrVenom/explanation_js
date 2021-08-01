@@ -3,7 +3,7 @@
 
 пример кода от ~ июля 2021 года
 
-https://ksandrvenom.github.io/diagrama/ - библиотека для работы с графиками
+https://github.com/KsandrVenom/diagrama - библиотека для работы с графиками
 
 https://github.com/KsandrVenom/react_basket - корзина на реакте
  
