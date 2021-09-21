@@ -4,6 +4,7 @@
 пример кода от ~ июля 2021 года
 
 https://github.com/KsandrVenom/diagrama - библиотека для работы с графиками
+https://github.com/KsandrVenom/table_of_customer_filter_name - запрос на сервер - отрисовка таблицы пользователей с фильтрацией по имени пример кода от 17.04.2021
 
 https://github.com/KsandrVenom/react_basket - корзина на реакте
  
