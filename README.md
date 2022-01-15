@@ -3,7 +3,7 @@ Explanation_js Портфоолио_JS
 
 Пример кода от декабря 2021
 ---------------------------
-https://github.com/KsandrVenom/block_prototype - сам репозитарий с небольшим описанием
+https://github.com/KsandrVenom/block_prototype - работа с Canvas
 
 
 пример кода от ~ июля 2021 года
