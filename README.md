@@ -1,3 +1,5 @@
+Окружение, IDE
+============================
 Git, terminal, скорее всего bash - пользуюсь в какой-то степени. Работаю в PyCharm, Visual Studio Code, Jupyter Notebook
 
 Python
